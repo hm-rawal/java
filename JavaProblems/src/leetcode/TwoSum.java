@@ -1,6 +1,8 @@
-package problems;
+package leetcode;
 
 import java.util.Arrays;
+
+//Leetcode problem URL: https://leetcode.com/problems/two-sum/
 
 public class TwoSum {
 
